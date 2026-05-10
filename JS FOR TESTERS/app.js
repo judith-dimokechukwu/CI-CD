@@ -10,4 +10,6 @@
 // let areaOfRectangle = calculateAreaOfRectangle(5, 6)
 // console.log(areaOfRectangle)
 const myBestFriends = ['Blessing', "Chizzy","Amara", 'Dera', 'Lynda']
-console.log(myBestFriends)
+const myBestie = myBestFriends[0]
+console.log(myBestie)
+
