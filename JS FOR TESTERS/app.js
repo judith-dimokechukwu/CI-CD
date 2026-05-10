@@ -5,6 +5,7 @@
 // }
 function calculateAreaOfRectangle(length, width) {
     let area = length * width
-    console.log(area)
+    return area
 }
-calculateAreaOfRectangle(5, 3)
+let areaOfRectangle = calculateAreaOfRectangle(5, 6)
+console.log(areaOfRectangle)
